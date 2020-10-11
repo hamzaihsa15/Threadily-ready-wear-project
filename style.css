@@ -425,6 +425,12 @@ transform: scale(1.1);
     border: none;
     box-shadow: none !important;
 }
+/*Contact us */
+.btn-color{
+    background: #000;
+    color: #fff;
+  }
+  
 /*--------------product-description---------------*/
 .product-description h6
 {
